@@ -1,0 +1,19 @@
+  
+            # BASICS OF GIT
+  
+  1. git init : it initialize the the empty repo
+  2. ls command use to show File
+  3. ls -a  command are use to show hidden and non-hidden file
+  4. rm -rf .git :- are use to remove git initialized folder
+
+
+            # GIT COMMIT COMMAND 
+
+  => We use the git commit command to actually commit changes from the staging area
+  => When making the commit, we need to provide the commit message that summarizes the changes and
+     work snapshotted in the commit 
+
+
+            # GIT LOG COMMAND
+
+ => Gives the information of all commit for a given repository 
