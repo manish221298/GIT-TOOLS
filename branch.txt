@@ -2,6 +2,10 @@
     => create new branch (e.g:-   git branch branchName)
     => switch from old branch   (e.g:- git switch branchName)  or (e.g:- git checkout branchName)  
 
+            # SHORT-CUT COMMAND FOR CREATE NEW BRANCH AND switch
+    => git switch -c "branchname"
+    => git checkout -b "branchname"
+
 
             # SHORT-CUT COMMAND FOR GIT ADD AND COMMIT  
     => git commit -a -m "final commit"
