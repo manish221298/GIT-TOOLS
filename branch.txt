@@ -1,4 +1,4 @@
             # CREATE BRANCH  (practice here also)
 
     => create new branch (e.g:-   git branch branchName)
-    => switch from old branc   (e.g:- git branch branchName)    
+    => switch from old branch   (e.g:- git switch branchName) or (e.g:- git checkout branchName)     
