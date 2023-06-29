@@ -1,5 +1,5 @@
   
-git token:-    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
+ git token:-    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
          
          
             # BASICS OF GIT
@@ -20,3 +20,9 @@ git token:-    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
             # GIT LOG COMMAND
 
  => Gives the information of all commit for a given repository 
+
+
+            # TOUCH COMMAND
+
+  => Touch command are use to create files 
+     e.g:-    touch myfile.txt
