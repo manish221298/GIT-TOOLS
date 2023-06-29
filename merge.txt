@@ -3,4 +3,5 @@
     => Go to master branch and (git merge "branchname)
 
 
-    # RESOLVE CONFLICTS 
+    # RESOLVE CONFLICTS (1st go to the receiving branch)
+    => git merge "branchname" (solve conflict)
