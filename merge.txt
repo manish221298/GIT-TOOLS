@@ -1,0 +1,6 @@
+
+    # SIMPLE MERGE (WHEN GET CLONE WITH MASTER BUT NOT ADDITIONAL COMMIT ON IT)
+    => Go to master branch and (git merge "branchname)
+
+
+    # RESOLVE CONFLICTS 
