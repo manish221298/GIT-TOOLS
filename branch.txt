@@ -9,3 +9,7 @@
 
             # SHORT-CUT COMMAND FOR GIT ADD AND COMMIT  
     => git commit -a -m "final commit"
+
+
+            # GIT COMMAND  TO RENAME THE BRANCH NAME
+    =>  git branch -m "branchname"
