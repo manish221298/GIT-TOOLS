@@ -1,9 +1,5 @@
         # HEAD OF A PARTICULAR BRANCH 
 
-    => To moeve on a particular head of a branch then do below step
+    => To move on a particular head of a particular branch then follow below steps.
     1.  git log (and then copy 1st 7 digit of the head)
     2. use command (git checkout "copied head")
-
-
-        # now we have write some thing
-        => for practice here should to go
