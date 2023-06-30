@@ -19,7 +19,9 @@
 
             # GIT LOG COMMAND
 
- => Gives the information of all commit for a given repository 
+ => Gives the information of all commit for a given repository
+ => git log (command)
+ => git log --oneline (give infrmation in one line)
 
 
             # TOUCH COMMAND
