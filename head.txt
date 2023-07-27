@@ -3,3 +3,9 @@
     => To move on a particular head of a particular branch then follow below steps.
     1.  git log (and then copy 1st 7 digit of the head)
     2. use command (git checkout "copied head")
+    3. Command to check we are in which head (cat .git/HEAD)
+
+
+        # ALSO MOVE ON PREVIOUS BRANCH LIKE BELOW COMMANDS
+    => HEAD~1 refers to the commit before HEAD (PARENT)
+    => HEAD~2 refers to the commit before HEAD (GRANDPARENT)
